@@ -56,7 +56,7 @@ buttons.forEach((btn) => {
     } else if (result === "You Lose!") {
       loseSound.play();
     }else{
-        drawSound.play();
+      drawSound.play();
     }
   });
 });
