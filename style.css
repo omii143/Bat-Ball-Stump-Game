@@ -18,11 +18,11 @@ body {
   width: 100%;
   background: transparent;
   background-repeat: no-repeat;
-  padding: 30px;
+  padding: 25px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   text-align: center;
-  margin: 50px;
+  margin: 45px;
   border: 2px solid black;
 }
 
