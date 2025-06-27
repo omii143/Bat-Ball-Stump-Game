@@ -100,7 +100,7 @@ h1 {
     flex-direction:inherit;
   }
   .choice-btn {
-    width:50px;
+    width:40px;
 }
   .choice-btn:hover {
     width: 60px;
@@ -109,6 +109,7 @@ h1 {
   }
   #score {
     font-size: 16px;
+    color: #ffffff;
   }
   #result {
     font-size: 18px;
