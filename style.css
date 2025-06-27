@@ -97,7 +97,7 @@ h1 {
 /* Responsive */
 @media (max-width: 480px) {
   .choices {
-    flex-direction: column;
+    flex-direction:inherit;
   }
   .choice-btn {
     width:50px;
@@ -112,6 +112,7 @@ h1 {
   }
   #result {
     font-size: 18px;
+    font-weight: bold;
   }
   #restartBtn {
     font-size: 14px;
