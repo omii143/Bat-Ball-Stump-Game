@@ -17,6 +17,7 @@ body {
   max-width: 450px;
   width: 100%;
   background: transparent;
+  background-repeat: no-repeat;
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
