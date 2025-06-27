@@ -97,26 +97,9 @@ h1 {
 /* Responsive */
 @media (max-width: 480px) {
   .choices {
-    flex-direction:row;
+    flex-direction:column;
   }
   .choice-btn {
-    width:40px;
+    width:100%;
 }
-  .choice-btn:hover {
-    width: 60px;
-    height: 60px;
-    border-radius: 30px;
-  }
-  #score {
-    font-size: 16px;
-    color: #ffffff;
-  }
-  #result {
-    font-size: 18px;
-    font-weight: bold;
-  }
-  #restartBtn {
-    font-size: 14px;
-    padding: 10px;
-  }
 }
