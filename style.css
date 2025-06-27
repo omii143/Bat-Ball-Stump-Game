@@ -97,7 +97,7 @@ h1 {
 /* Responsive */
 @media (max-width: 480px) {
   .choices {
-    flex-direction:inherit;
+    flex-direction:row;
   }
   .choice-btn {
     width:40px;
